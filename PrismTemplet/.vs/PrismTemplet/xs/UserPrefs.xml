@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{ED13CE8F-A59A-440E-8E07-879807B6EF03}|Default">
+  <MonoDevelop.Ide.ItemProperties.PrismTemplet.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.067B19DF-0CA8-49D9-8679-BE5D901D5274" />
+  <MonoDevelop.Ide.ItemProperties.PrismTemplet.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrismTemplet" expanded="True">
+            <Node name="PrismTemplet" expanded="True">
+              <Node name="Dto" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModel" expanded="True">
+                <Node name="MainPageViewModel.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="HomeTabbedPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="WithPeoplePage.xaml" expanded="True" />
+            </Node>
+            <Node name="PrismTemplet.Android" expanded="True" />
+            <Node name="PrismTemplet.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>e.SelectedItem.ToString</Value>
+          <Value>e.SelectedItem</Value>
+          <Value>e.SelectedItem.ToString()</Value>
+          <Value>e.SelectedItem(money)</Value>
+          <Value>e.SelectedItem(Money).</Value>
+          <Value>SelectedItem</Value>
+          <Value>ex.Message</Value>
+          <Value>ex.Message()</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

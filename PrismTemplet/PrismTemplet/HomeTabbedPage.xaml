@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<forms:TabbedPage xmlns:local="clr-namespace:PrismTemplet" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:forms="http://xamarin.com/schemas/2014/forms" x:Class="PrismTemplet.HomeTabbedPage">
+   <local:MainPage Title="Only"/>
+    <local:WithPeoplePage Title="Another"/>
+</forms:TabbedPage>
